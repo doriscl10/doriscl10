@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Doris
 
-<!--
-**doriscl10/doriscl10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una desarrolladora frontend apasionada por crear interfaces bonitas, funcionales y fáciles de usar. Me gradué de Ingeniería de Software y actualmente estoy especializándome en **Frontend Developer**.  
 
-Here are some ideas to get you started:
+🎯 Actualmente estoy:
+- Trabajando en proyectos personales con **Vue**, **Tailwind** y **TypeScript**
+- Aprendiendo **Node.js** y explorando el mundo del backend
+- Preparándome para nuevas oportunidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- 💻 Lenguajes: JavaScript, TypeScript, HTML, CSS
+- 🌐 Frameworks/Librerías: Vue.js, React.js, Tailwind CSS, Bootstrap
+- 🛠️ Herramientas: Git, Figma, Visual Studio Code
+- 🗄️ Base de datos: MySQL
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/doris-condori-limachi/)
+- 📧 Email: doris.condori10@gmail.com
+- 🌐 Portafolio: [doriscl10.github.io](https://doriscl10.github.io/mi-portafolio/)
+
+---
+
+Gracias por visitar mi perfil 😄 ¡Estoy disponible a colaboraciones y nuevos retos!
