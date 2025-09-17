@@ -3,8 +3,8 @@
 Soy una desarrolladora frontend apasionada por crear interfaces bonitas, funcionales y fáciles de usar. Me gradué de Ingeniería de Software y actualmente estoy especializándome en **Frontend Developer**.  
 
 🎯 Actualmente estoy:
-- Trabajando en proyectos personales con **Vue**, **Tailwind** y **TypeScript**
-- Aprendiendo **Node.js** y explorando el mundo del backend
+- Trabajando en proyectos personales con **Vue**, **React**, **Tailwind** y **TypeScript**
+- Aprendiendo **Next.js** y explorando el mundo del backend
 - Preparándome para nuevas oportunidades
 
 ---
