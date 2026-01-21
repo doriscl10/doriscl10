@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Doris
 
-Soy una desarrolladora frontend apasionada por crear interfaces bonitas, funcionales y fáciles de usar. Me gradué de Ingeniería de Software y actualmente estoy especializándome en **Frontend Developer**.  
+Soy una desarrolladora frontend jr. apasionada por crear interfaces bonitas, funcionales y fáciles de usar. Me gradué de la carrera técnica en Ingeniería de Software y actualmente me ecuentro buscando formar parte de una empresa en la cual pueda aprender y aportar mucho.  
 
 🎯 Actualmente estoy:
 - Trabajando en proyectos personales con **Vue**, **React**, **Tailwind** y **TypeScript**
